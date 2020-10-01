@@ -1,0 +1,13 @@
+setup.py
+countries/__init__.py
+countries/items.py
+countries/middlewares.py
+countries/pipelines.py
+countries/settings.py
+countries/spiders/__init__.py
+countries/spiders/books.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
